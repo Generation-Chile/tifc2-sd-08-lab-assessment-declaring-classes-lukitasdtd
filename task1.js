@@ -1,5 +1,5 @@
 export class Player {
-  constructor() {
-    
+  constructor(n) {
+    this.name= n
   }
   }
